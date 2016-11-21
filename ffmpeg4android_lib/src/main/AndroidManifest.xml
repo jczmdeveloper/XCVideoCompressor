@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.netcompss.ffmpeg4android"
+      android:versionCode="252409"
+      android:versionName="25.24.9">
+      
+     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
+      
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> 
+    
+    
+   
+</manifest> 

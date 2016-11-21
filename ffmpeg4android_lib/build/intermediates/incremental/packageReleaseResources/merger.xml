@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\main\res"/><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\build\generated\res\rs\release"/><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\main\res"><file name="main" path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\main\res\values\strings.xml" qualifiers=""><string name="email">android@netcompss.com</string><string name="welcome_demo">FFmpeg4Android Demo shows how easy it is for every application to run FFMpeg commands.</string><string name="app_name">Demo</string><string name="welcome_3">Progress bar with notification example (and stop / cancel support).\n
+    The notification will work only on Android 4 or above.\n
+    To support notifications on older versions, use the Android support library</string><string name="welcome_2">Simple progress bar example with stop support (you can cancel the transcoding when its running).</string><string name="welcome_1">Simple example using a AsyncTask without progress bar.\n
+    When using this technique, you will not be able to stop the operation while its running.</string><string name="full_app_name">FFmpeg4Android Demo</string><string name="commandTextView">This command will rotate /sdcard/videokit/in.mp4 90 degrees, and create /sdcard/videokit/out.mp4:</string></file><file path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\main\res\values\styles.xml" qualifiers=""><style name="h1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+         <item name="android:textStyle">bold</item>
+</style><style name="h2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+         <item name="android:textStyle">bold</item>
+</style><style name="t1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/white</item>
+</style></file></source><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\build\generated\res\rs\release"/><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\github\XCVideoCompressor\ffmpeg4android_lib\src\release\res"/></dataSet><mergedItems/></merger>
