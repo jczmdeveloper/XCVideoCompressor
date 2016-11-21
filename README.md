@@ -3,7 +3,8 @@ A Video compressor which uses ffmpeg lib for Android App- Android 视频压缩�
 The Example for Use：
 
 
-String sdcardDir = Environment.getExternalStorageDirectory().getAbsolutePath();
+        String sdcardDir = Environment.getExternalStorageDirectory().getAbsolutePath();
+
         String mInputStr = sdcardDir+"/DCIM/Camera/21s.mp4";
         mStrResult = "Compress begin=========\n";
         mResult.setText(mStrResult);
