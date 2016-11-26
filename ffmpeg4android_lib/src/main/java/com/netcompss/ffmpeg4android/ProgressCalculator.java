@@ -86,7 +86,7 @@ public class ProgressCalculator {
 			}
 			else {
 				//Log.w(Prefs.TAG, "Looks like Vk log is not increasing in size");
-				_vkLogNoChangeCounter++;
+//				_vkLogNoChangeCounter++;
 			}
 
 
